@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 const navLinks = [
-    { text: 'Home', url: 'https://jonathan070707.github.ioJS-TIK-2032/' },
+    { text: 'Home', url: 'https://jonathan070707.github.io/JS-TIK-2032/' },
     { text: 'Gallery', url: 'https://jonathan070707.github.io/JS-TIK-2032/index2gal.html' },
     { text: 'Blog', url: 'https://jonathan070707.github.io/JS-TIK-2032/index3.1blog.html' },
     { text: 'Contact', url: 'https://jonathan070707.github.io/JS-TIK-2032/index4contact.html' }
