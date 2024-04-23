@@ -68,10 +68,10 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 const navLinks = [
-    { text: 'Home', url: 'https://jonathan070707.github.io/TIK-2032JS/' },
-    { text: 'Gallery', url: 'https://jonathan070707.github.io/TIK-2032JS/index2gal.html' },
-    { text: 'Blog', url: 'https://jonathan070707.github.io/TIK-2032JS/index3.1blog.html' },
-    { text: 'Contact', url: 'https://jonathan070707.github.io/TIK-2032JS/index4contact.html' }
+    { text: 'Home', url: 'https://jonathan070707.github.ioJS-TIK-2032/' },
+    { text: 'Gallery', url: 'https://jonathan070707.github.io/JS-TIK-2032/index2gal.html' },
+    { text: 'Blog', url: 'https://jonathan070707.github.io/JS-TIK-2032/index3.1blog.html' },
+    { text: 'Contact', url: 'https://jonathan070707.github.io/JS-TIK-2032/index4contact.html' }
   ];
   
   const navigationBar = document.getElementById('navigation_bar');
