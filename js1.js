@@ -33,7 +33,6 @@ function experiencedetail2() {
 }
 
 
-
 const articletitle = ["Memahami Kecerdasan Buatan (AI)", "Dungeon Meshi", "Pemrograman Web: Menggali Dunia Digital"]; //judul2artikel
 
 function decidingtitle() {
